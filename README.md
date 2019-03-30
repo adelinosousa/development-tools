@@ -8,6 +8,7 @@ Helpful development tools for the different stages of application development
 
 ## Design
 * [Figma](https://www.figma.com/), design and prototype
+* [StoryBook.js](https://storybook.js.org/), develop UI components for React, Vue, and Angular
 * [FontFlipper](https://fontflipper.com), explore and preview font styles
 * [Flare](https://www.2dimensions.com/about-flare), design and animate
 
@@ -17,9 +18,17 @@ Helpful development tools for the different stages of application development
     * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
+## ToolKit
+* [Serverless](https://serverless.com/), build serverless application
+* [LocalStack](https://localstack.cloud/), develop and test AWS cloud apps offline
+
 ## Optimization
 * [BundlePhobia](https://bundlephobia.com/), visualize performance cost of npm packages
 * [Parcel.js](https://parceljs.org/), zero configuration web application bundler
+
+## Monitoring (APM)
+* [DataDog](https://www.datadoghq.com/)
+* [NewRelic](https://newrelic.com/products/application-monitoring)
 
 ## Documentation
 * [Cloudockit](https://www.cloudockit.com), generate documentation and diagrams
