@@ -19,6 +19,7 @@ Helpful development tools for the different stages of application development
 
 ## Optimization
 * [BundlePhobia](https://bundlephobia.com/), visualize performance cost of npm packages
+* [Parcel.js](https://parceljs.org/), zero configuration web application bundler
 
 ## Documentation
 * [Cloudockit](https://www.cloudockit.com), generate documentation and diagrams
