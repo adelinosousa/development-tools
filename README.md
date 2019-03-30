@@ -2,13 +2,13 @@
 Helpful development tools for the different stages of application development
 
 ## Planning
-* CloudCraft, visual architecture diagram designer for AWS services [https://cloudcraft.co/]
+* [CloudCraft](https://cloudcraft.co/), visual architecture diagram designer for AWS services
 
 ## Design
-* Figma, design and prototype [https://www.figma.com/]
+* [Figma](https://www.figma.com/), design and prototype
 
 ## Optimization
-* BundlePhobia, visualize performance cost of npm packages [https://bundlephobia.com/]
+* [BundlePhobia](https://bundlephobia.com/), visualize performance cost of npm packages
 
 ## Documentation
-* Markdown-Cheatsheet [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+* [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
