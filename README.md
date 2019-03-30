@@ -2,6 +2,8 @@
 Helpful development tools for the different stages of application development
 
 ## Planning
+* [Draw.io](https://www.draw.io/), create and share diagrams
+* [LucidChart](https://www.lucidchart.com/), create and share diagrams
 * [CloudCraft](https://cloudcraft.co/), visual architecture diagram designer for AWS services
 
 ## Design
@@ -19,6 +21,5 @@ Helpful development tools for the different stages of application development
 * [BundlePhobia](https://bundlephobia.com/), visualize performance cost of npm packages
 
 ## Documentation
-* [Draw.io](https://www.draw.io/), create and share diagrams
 * [Cloudockit](https://www.cloudockit.com), generate documentation and diagrams
 * [Markdown-Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), cheatsheet for markdown files
