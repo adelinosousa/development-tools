@@ -40,6 +40,7 @@ Helpful development tools for the different stages of application development
 
 ## Other
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet), collection of .NET libraries, tools, frameworks and software
+* [awesome-react](https://github.com/enaqx/awesome-react), collection of React resources
 * [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo), curated list for WPO
 * [awesome-css](https://github.com/awesome-css-group/awesome-css), curated list for CSS
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir), awesome Elixir and Erlang libraries
