@@ -27,6 +27,7 @@ Helpful development tools for the different stages of application development
 * [Parcel.js](https://parceljs.org/), zero configuration web application bundler
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse), audit, performance metrics, and best practices for PWA
 * [Sharp](https://github.com/lovell/sharp), Node.js image processing, resize JPEG, PNG, WebP and TIFF images
+* [Require.js](https://github.com/requirejs/requirejs), module loader for JavaScript
 
 ## Monitoring (APM)
 * [DataDog](https://www.datadoghq.com/)
@@ -37,8 +38,9 @@ Helpful development tools for the different stages of application development
 * [Markdown-Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), cheatsheet for markdown files
 * [Swagger](https://swagger.io/), generate API documentation
 
-## Awesome
+## Other
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet), collection of .NET libraries, tools, frameworks and software
 * [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo), curated list for WPO
+* [awesome-css](https://github.com/awesome-css-group/awesome-css), curated list for CSS
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir), awesome Elixir and Erlang libraries
 * [awesome-php](https://github.com/ziadoz/awesome-php), awesome PHP libraries
