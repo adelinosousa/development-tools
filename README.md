@@ -25,6 +25,8 @@ Helpful development tools for the different stages of application development
 ## Optimization
 * [BundlePhobia](https://bundlephobia.com/), visualize performance cost of npm packages
 * [Parcel.js](https://parceljs.org/), zero configuration web application bundler
+* [Lighthouse](https://github.com/GoogleChrome/lighthouse), audit, performance metrics, and best practices for PWA
+* [Sharp](https://github.com/lovell/sharp), Node.js image processing, resize JPEG, PNG, WebP and TIFF images
 
 ## Monitoring (APM)
 * [DataDog](https://www.datadoghq.com/)
@@ -35,5 +37,8 @@ Helpful development tools for the different stages of application development
 * [Markdown-Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), cheatsheet for markdown files
 * [Swagger](https://swagger.io/), generate API documentation
 
-## Other
+## Awesome
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet), collection of .NET libraries, tools, frameworks and software
+* [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo), curated list for WPO
+* [awesome-elixir](https://github.com/h4cc/awesome-elixir), awesome Elixir and Erlang libraries
+* [awesome-php](https://github.com/ziadoz/awesome-php), awesome PHP libraries
