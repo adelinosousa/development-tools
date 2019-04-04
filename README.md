@@ -37,6 +37,7 @@ Helpful development tools for the different stages of application development
 * [Cloudockit](https://www.cloudockit.com), generate documentation and diagrams
 * [Markdown-Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), cheatsheet for markdown files
 * [Swagger](https://swagger.io/), generate API documentation
+* [gitignore](https://www.gitignore.io/), generate gitignore
 
 ## Other
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet), collection of .NET libraries, tools, frameworks and software
