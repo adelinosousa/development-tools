@@ -46,4 +46,4 @@ Helpful development tools for the different stages of application development
 * [awesome-css](https://github.com/awesome-css-group/awesome-css), curated list for CSS
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir), awesome Elixir and Erlang libraries
 * [awesome-php](https://github.com/ziadoz/awesome-php), awesome PHP libraries
-* [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor)
+* [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor), awesome blazor resources, libraries and demos
