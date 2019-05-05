@@ -32,6 +32,7 @@ Helpful development tools for the different stages of application development
 ## Monitoring (APM)
 * [DataDog](https://www.datadoghq.com/)
 * [NewRelic](https://newrelic.com/products/application-monitoring)
+* [AzureMonitor](https://azure.microsoft.com/en-gb/services/monitor/)
 
 ## Documentation
 * [Cloudockit](https://www.cloudockit.com), generate documentation and diagrams
