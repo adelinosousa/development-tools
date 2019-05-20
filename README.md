@@ -34,13 +34,19 @@ Helpful development tools for the different stages of application development
 * [NewRelic](https://newrelic.com/products/application-monitoring)
 * [AzureMonitor](https://azure.microsoft.com/en-gb/services/monitor/)
 
+## Version control
+* [Gitignore.io](https://www.gitignore.io/), gitignore generator
+
 ## Documentation
 * [Cloudockit](https://www.cloudockit.com), generate documentation and diagrams
 * [Markdown-Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), cheatsheet for markdown files
 * [Swagger](https://swagger.io/), generate API documentation
 * [gitignore](https://www.gitignore.io/), generate gitignore
 
-## Other
+## Communication
+* [Papercut](https://github.com/ChangemakerStudios/Papercut), simple desktop SMTP server
+
+## Awesome
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet), collection of .NET libraries, tools, frameworks and software
 * [awesome-react](https://github.com/enaqx/awesome-react), collection of React resources
 * [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo), curated list for WPO
