@@ -1,5 +1,5 @@
-# development-tools
-Helpful development tools for the different stages of application development
+# Development Tools
+Helpful development tools and resources for the different stages of application development.
 
 ## Planning
 * [Draw.io](https://www.draw.io/), create and share diagrams
@@ -22,6 +22,9 @@ Helpful development tools for the different stages of application development
 * [Serverless](https://serverless.com/), build serverless application
 * [LocalStack](https://localstack.cloud/), develop and test AWS cloud apps offline
 
+## Authentication
+* [IdentityServer](https://github.com/IdentityServer/IdentityServer4), OpenID Connect and OAuth 2.0 Framework
+
 ## Optimization
 * [BundlePhobia](https://bundlephobia.com/), visualize performance cost of npm packages
 * [Parcel.js](https://parceljs.org/), zero configuration web application bundler
@@ -41,7 +44,7 @@ Helpful development tools for the different stages of application development
 * [Cloudockit](https://www.cloudockit.com), generate documentation and diagrams
 * [Markdown-Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), cheatsheet for markdown files
 * [Swagger](https://swagger.io/), generate API documentation
-* [gitignore](https://www.gitignore.io/), generate gitignore
+* [Gitignore.io](https://www.gitignore.io/), generate gitignore
 
 ## Communication
 * [Papercut](https://github.com/ChangemakerStudios/Papercut), simple desktop SMTP server
