@@ -21,6 +21,7 @@ Helpful development tools and resources for the different stages of application 
 ## ToolKit
 * [Serverless](https://serverless.com/), build serverless application
 * [LocalStack](https://localstack.cloud/), develop and test AWS cloud apps offline
+* [Amplify](https://aws-amplify.github.io/), easy integration with AWS services
 
 ## Authentication
 * [IdentityServer](https://github.com/IdentityServer/IdentityServer4), OpenID Connect and OAuth 2.0 Framework
