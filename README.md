@@ -11,12 +11,16 @@ Helpful development tools and resources for the different stages of application 
 * [StoryBook.js](https://storybook.js.org/), develop UI components for React, Vue, and Angular
 * [FontFlipper](https://fontflipper.com), explore and preview font styles
 * [Flare](https://www.2dimensions.com/about-flare), design and animate
+* [Bootstrap](https://getbootstrap.com/), UI libary
+* [Material-UI](https://material-ui.com/), react UI components
+* [Codepen](https://codepen.io/), build, test, and discover front-end code
 
 ## IDE
 * [Visual Studio Code](https://code.visualstudio.com/)
   * __Extensions__
     * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
     * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+    * [Prettier](https://prettier.io/)
 
 ## ToolKit
 * [Serverless](https://serverless.com/), build serverless application
@@ -25,6 +29,7 @@ Helpful development tools and resources for the different stages of application 
 
 ## Authentication
 * [IdentityServer](https://github.com/IdentityServer/IdentityServer4), OpenID Connect and OAuth 2.0 Framework
+* [AWS Cognito](https://aws.amazon.com/cognito/)
 
 ## Optimization
 * [BundlePhobia](https://bundlephobia.com/), visualize performance cost of npm packages
