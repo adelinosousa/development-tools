@@ -11,7 +11,7 @@ Helpful development tools and resources for the different stages of application 
 * [StoryBook.js](https://storybook.js.org/), develop UI components for React, Vue, and Angular
 * [FontFlipper](https://fontflipper.com), explore and preview font styles
 * [Flare](https://www.2dimensions.com/about-flare), design and animate
-* [Bootstrap](https://getbootstrap.com/), UI libary
+* [Bootstrap](https://getbootstrap.com/), UI library
 * [Material-UI](https://material-ui.com/), react UI components
 * [Codepen](https://codepen.io/), build, test, and discover front-end code
 
