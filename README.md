@@ -5,6 +5,8 @@ Helpful development tools and resources for the different stages of application 
 * [Draw.io](https://www.draw.io/), create and share diagrams
 * [LucidChart](https://www.lucidchart.com/), create and share diagrams
 * [CloudCraft](https://cloudcraft.co/), visual architecture diagram designer for AWS services
+* [Mermaid.js](https://mermaid.js.org/), diagramming and charting tool
+* [Miro](https://miro.com/), workspace for teams to manage projects and design products
 
 ## Design
 * [Figma](https://www.figma.com/), design and prototype
@@ -14,6 +16,8 @@ Helpful development tools and resources for the different stages of application 
 * [Bootstrap](https://getbootstrap.com/), UI library
 * [Material-UI](https://material-ui.com/), react UI components
 * [Codepen](https://codepen.io/), build, test, and discover front-end code
+* [React-Icons](https://react-icons.github.io/react-icons/) popular icons
+* [Tailwind](https://tailwindcss.com/), utility based css styling
 
 ## IDE
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -30,6 +34,7 @@ Helpful development tools and resources for the different stages of application 
 ## Authentication
 * [IdentityServer](https://github.com/IdentityServer/IdentityServer4), OpenID Connect and OAuth 2.0 Framework
 * [AWS Cognito](https://aws.amazon.com/cognito/)
+* [Azure Entra ID](https://www.microsoft.com/en-gb/security/business/identity-access/microsoft-entra-id)
 
 ## Optimization
 * [BundlePhobia](https://bundlephobia.com/), visualize performance cost of npm packages
@@ -42,6 +47,9 @@ Helpful development tools and resources for the different stages of application 
 * [DataDog](https://www.datadoghq.com/)
 * [NewRelic](https://newrelic.com/products/application-monitoring)
 * [AzureMonitor](https://azure.microsoft.com/en-gb/services/monitor/)
+
+## Support/Incident management
+* [PagerDuty](https://www.pagerduty.com/)
 
 ## Version control
 * [Gitignore.io](https://www.gitignore.io/), gitignore generator
@@ -63,3 +71,4 @@ Helpful development tools and resources for the different stages of application 
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir), awesome Elixir and Erlang libraries
 * [awesome-php](https://github.com/ziadoz/awesome-php), awesome PHP libraries
 * [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor), awesome blazor resources, libraries and demos
+* [awesome-pentest](https://github.com/enaqx/awesome-pentest), collection of awesome penetration testing and offensive cybersecurity resources
